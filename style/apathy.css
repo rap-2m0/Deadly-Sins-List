@@ -1,0 +1,35 @@
+
+body {
+    background-color: #0f172a;
+}
+
+.apathy {
+    color:rgb(57, 255, 57);
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Bebas Neue', sans-serif;
+    transition: all 0.3s ease;
+}
+
+.apathy:hover{
+    text-shadow: 0 0 10px rgb(245, 245, 245),0 0 50px rgb(57, 255, 57);
+}
+
+.info{
+    font-size: 35px;
+    text-align: left;
+    color:white;
+}
+
+#a{
+    color:rgb(57, 255, 57);
+}
+
+#b{
+    color:aquamarine;
+}
+
+#b:hover{
+    transition: all 0.3s ease;
+    text-shadow: 0 0 10px rgb(245, 247, 248),0 0 20px aquamarine;
+}
